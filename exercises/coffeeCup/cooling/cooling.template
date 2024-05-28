@@ -1,0 +1,7 @@
+{"T0": "$temp_init", 
+"r_o": "$outerRadius", 
+"d_cup": "$cupThickness",
+"h_cup": "$cupHeight", 
+"d_lid": "$lidThickness",
+"t_env": "$t_env",
+"out_file": "$out_file"}
